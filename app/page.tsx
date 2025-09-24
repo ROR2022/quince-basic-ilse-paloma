@@ -25,7 +25,7 @@ const page = () => {
       <BasicCTA />
 
       {/* 🎵 Reproductor de audio fijo */}
-      {/* <AudioPlayer /> */}
+       <AudioPlayer /> 
     </div>
   );
 };
