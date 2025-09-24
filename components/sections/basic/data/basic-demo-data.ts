@@ -28,7 +28,7 @@ export const basicDemoData = {
     party: {
       time: "19:30 hrs.",
       venue: "Salon de Eventos Los Lirios",
-      address: "Los Lirios 714 col 3 caminos , atrás del HEB pablo livas",
+      address: "Los Lirios 714 col 3 caminos , atrás del HEB Pablo Livas",
       type: "Recepción",
       ubiLink: "https://maps.app.goo.gl/vnMRK8MEGswPthbF7"
     },

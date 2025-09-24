@@ -20,7 +20,7 @@ export const weddingData = {
       mother: "Karen Corpus",
       father: "Hugo Lizagarra"
     },
-    message: "A mis querida madre: Gracias por darme la vida, por cuidarme, guiarme y acompañarme hasta este día tan especial. Su amor incondicional y su ejemplo han sido los pilares fundamentales de mi crecimiento. En mis quince años, ha sido mi fortaleza y mi inspiración. Contigo a mi lado, comienzo esta nueva etapa de mi vida llena de ilusión, sueños y esperanzas. Su presencia hace que este momento sea aún más significativo y emotivo. Le amo profundamente."
+    message: "Querida madre: Gracias por darme la vida, por cuidarme, guiarme y acompañarme hasta este día tan especial."
   },
 
   // 📅 Información de fecha y evento

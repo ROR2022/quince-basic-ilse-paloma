@@ -62,6 +62,11 @@ export default function ParentsSection() {
                 {parents.message}
               </p>
 
+              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed">
+                A mi niña 💜  
+                Yo feliz de que me eligieras como tu mamá y sabes que al vivir tu propia vida, siempre podrás volver a mi.
+              </p>
+
               <div className="space-y-8">
                 <div>
                   <h3 className={isVisible ? completeClass : basicClass}>
