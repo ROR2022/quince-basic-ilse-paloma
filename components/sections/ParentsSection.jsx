@@ -56,15 +56,14 @@ export default function ParentsSection() {
               style={{
                 backgroundColor: "#C8BFE780",
               }}
-              className="relative p-6 rounded-2xl z-10 text-center space-y-8 py-12"
+              className="relative p-2 rounded-2xl z-10 text-center space-y-8 py-12"
             >
-              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed">
+              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed text-justify">
                 {parents.message}
               </p>
 
-              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed">
-                A mi niña 💜  
-                Yo feliz de que me eligieras como tu mamá y sabes que al vivir tu propia vida, siempre podrás volver a mi.
+              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed text-justify">
+                Mi niña, yo feliz de que me eligieras como tu mamá y recuerda que si en el pasar de la vida necesitas un lugar donde descansar, siempre podrás volver a mi.
               </p>
 
               <div className="space-y-8">
