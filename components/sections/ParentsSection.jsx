@@ -62,7 +62,7 @@ export default function ParentsSection() {
                 {parents.message}
               </p>
 
-              <div className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed text-justify flex flex-col">
+              <div className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed flex flex-col">
                 <span>Mi niña, yo feliz de que me eligieras como tu mamá y recuerda que si en el pasar de la vida necesitas un lugar donde descansar, </span>
                 <span>siempre podrás volver a mi.</span>
               </div>
