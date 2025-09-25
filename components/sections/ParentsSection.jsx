@@ -58,15 +58,21 @@ export default function ParentsSection() {
               }}
               className="relative p-2 rounded-2xl z-10 text-center space-y-8 py-12"
             >
-              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed text-justify">
-                {parents.message}
+              <p className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed flex flex-col space-y-2">
+                <span>Querida Madre:</span>
+                <span>Gracias por darme la vida,</span>
+                <span>por cuidarme, guiarme y acompañarme,</span>
+                <span>hasta este dia tan especial.</span>
               </p>
 
               <div 
-              style={{letterSpacing:'0.5px'}}
-              className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed text-justify">
-                Mi niña, yo feliz de que me eligieras como tu mamá y recuerda que si en el pasar de la vida necesitas un lugar donde descansar,
-                siempre podrás volver a mi.
+              //style={{letterSpacing:'0.5px'}}
+              className="text-lg text-muted-foreground italic max-w-2xl mx-auto leading-relaxed flex flex-col space-y-2">
+                <span>Mi niña,</span>
+                <span>yo feliz de que me eligieras como tu mamá</span>
+                <span>y recuerda que si en el pasar de la vida </span>
+                <span>necesitas un lugar donde descansar,</span>
+                <span>siempre podrás volver a mi.</span>
               </div>
 
               <div className="space-y-8">
